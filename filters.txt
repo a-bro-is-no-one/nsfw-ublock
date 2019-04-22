@@ -1,0 +1,23 @@
+xvideos.com##.x-message-info.x-
+thefappening.wiki##.wrap-celeblist
+thefappeningblog.com###comments
+thefappeningblog.com##.noticeContent.baseHtml
+pornhub.com###abAlert
+pornhub.com###headerMainMenuInner
+pornhub.com###headerUpgradePremiumBtn
+pornhub.com###menuItem4
+pornhub.com###menuItem5
+pornhub.com###menuItem6
+pornhub.com##.streamatesModelsContainer
+pornhub.com##div.wrap:has(div.phimage>div>div>i[data-title="Premium Video"])
+pornhub.com##sads
+thechive.com###header
+||thefappening.wiki/res/img/promo/ex-girlfriends.gif$image
+||thefappening.wiki/thumbs/BST-300_250_1.gif$image
+xhamster.com##.wid-cams-widget
+xhamster.com##.no-popunder.wid-banner-container
+xhamster.com##.promo-message
+xhamster.com##.ai-slider
+nsfw.myconfinedspace.com###upprev_box
+www.pornhub.com###p2vVideosVPage
+www.xvideos.com###video-ad
